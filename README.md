@@ -337,9 +337,18 @@ opportunity? → What should the business do next?**
 brazilian-ecommerce-sql-analysis/
 │
 ├── README.md
-├── brazilian_ecommerce_analysis.sql
+├── target_ecommerce_analysis.sql
 └── data/
-    └── dataset_reference.md
+    └── customers.csv
+    └──geolocation.csv
+    └──order_items.csv
+    └──orders_review.csv
+    └──orders.csv
+    └──payments.csv
+    └──products.csv
+    └──sellers.csv
+
+    
 ```
 
 ## 👤 Project Positioning
