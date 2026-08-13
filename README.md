@@ -354,17 +354,7 @@ brazilian-ecommerce-sql-analysis/
 Analytics \| Logistics Analytics \| Payment Analytics \| Data-Driven
 Decision Making
 
-## ⭐ Portfolio Summary
 
-**Brazilian E-Commerce Sales & Customer Analytics** is an end-to-end SQL
-analytics project exploring customer distribution, order growth,
-seasonal demand, purchasing behavior, payment preferences, freight
-costs, and delivery performance.
-
-By joining multiple business tables and applying SQL aggregation,
-date/time analysis, conditional logic, CTEs, and multi-table joins, the
-project converts raw e-commerce transactions into actionable business
-intelligence.
 
 The project demonstrates how a Data Analyst can connect **customer
 behavior, commercial performance, and operational efficiency** to
